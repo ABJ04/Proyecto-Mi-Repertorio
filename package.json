@@ -1,0 +1,24 @@
+{
+  "name": "repertorio",
+  "version": "1.0.0",
+  "description": "- app.get(canciones) => lee json con canciones\r - app.post(canciiones) => publica canciones a json (Erich)\r - app.put('/canciones/:id') => modifica canciones del json (Alfredo)\r - app.delete('/canciones/:id') => elimina canciones de json (Claudio)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HandxLock/Proyecto-Mi-Repertorio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HandxLock/Proyecto-Mi-Repertorio/issues"
+  },
+  "homepage": "https://github.com/HandxLock/Proyecto-Mi-Repertorio#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "standard": "^17.1.0"
+  }
+}
