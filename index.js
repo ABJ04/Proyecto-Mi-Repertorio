@@ -14,3 +14,8 @@ if (!fs.existsSync(archivo)) {
 } else {
   console.log('El archivo repertorio.json ya existe.')
 }
+
+app.get('/canciones', (req, res) => {
+  const canciones = JSON.parse(fs.readFileSync('repertorio.json'))
+  res.json(canciones)
+})
