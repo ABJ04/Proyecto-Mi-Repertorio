@@ -1,0 +1,172 @@
+
+Started GET / for :: ::1 at Fri Feb 23 2024 23:38:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [ae0f5209-4529-45e9-b765-87093e6ea82b]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:38:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [0417b3c0-81af-47cb-8b61-1f48ff9c4171]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [65f694ac-124b-48b7-9166-8f6f9f138fa4]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [e2d86a7a-2f51-4129-83bc-4eded5cde5ba]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [26f8b35f-09bf-4e37-9a92-ed16536f2249]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [c08e2656-a3ab-4f2a-9121-f6f06047c74a]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [59781b3d-c304-4b73-81ec-9704e8a52160]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:38:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [7eea0521-183e-4786-8be0-5b5565d96dbb]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:39:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [f508cde3-8619-4597-9812-cf7a28e2d174]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:39:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [10917e1e-2dbe-4528-80cd-7d7b9111d943]
+
+Started DELETE /canciones/1 for :: ::1 at Fri Feb 23 2024 23:39:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [7a3513f1-6e0b-4c61-bec2-2ea530e50b32]
+
+Started POST /canciones for :: ::1 at Fri Feb 23 2024 23:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"id":4845,"titulo":"sad","artista":"asd","tono":"asd"}
+Completed: 201 message:  Time response: 3 ms Request ID: [29974458-23a4-4862-a301-10e51e8093c5]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [1a2864f9-d42a-41ba-afb3-5286e532aa45]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 8 ms Request ID: [d5a6770f-6d0f-44c3-a320-8666650b2323]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [508c5455-b5cf-480f-a22e-3a88eb1a3c4a]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [de309b01-178d-4dcb-a58c-03e46628a22b]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [397519a9-3c9f-4ac9-867b-f95482cc8442]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [d4116966-980b-49bd-94a5-9447084a6bdb]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [55403293-fcc4-49b2-8de2-126bafe37f56]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [4a157cbc-6c38-45c6-9dcf-8bdd9567e190]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d704197d-6ee8-4b0c-bbf8-98f5ac4064a6]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d3ae96dd-602f-4a8b-9a65-5de2d928fe02]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [79dd4e07-67c1-49dd-aab6-425afeaab8e3]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [f1994b15-6ca9-45c0-b58d-de40a21958e4]
+
+Started PUT /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"id":"4845","titulo":"sad ads","artista":"asd","tono":"asd"}
+Completed: 404 message:  Time response: 4 ms Request ID: [adbc4c98-5f98-4f09-ac38-6522b9b9504d]
+
+Started GET / for :: ::1 at Fri Feb 23 2024 23:45:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 12 ms Request ID: [847a149a-5dfd-4061-beac-2d8472902764]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:45:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [84c60ea9-f8b4-4a79-aefa-eb960ff9ffd2]
+
+Started GET / for :: ::1 at Fri Feb 23 2024 23:45:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [b794d45e-c4fb-411b-8396-ac570f65d6f3]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:45:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [b44d9b2f-8bc9-4a06-8667-b11faca0b019]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:45:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 202 message:  Time response: 4 ms Request ID: [5443531a-6bea-44d3-a9bb-4a3552caf182]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:45:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [7f49f9de-2f8f-41aa-bf60-022e3034c788]
+
+Started POST /canciones for :: ::1 at Fri Feb 23 2024 23:50:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"id":2615,"titulo":"asddasd","artista":"asdasd","tono":"asdasd"}
+Completed: 201 message:  Time response: 9 ms Request ID: [017e4808-dff2-4c5a-804e-f3b5c92e2512]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:50:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [9956d470-f5cf-4823-9a3a-6f040aa99447]
+
+Started DELETE /canciones/2615 for :: ::1 at Fri Feb 23 2024 23:50:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 202 message:  Time response: 11 ms Request ID: [14def303-4c4e-43e8-a0f1-cd1098278c4e]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:50:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [a9823f75-624a-4721-852e-67d7341e95b0]
+
+Started POST /canciones for :: ::1 at Fri Feb 23 2024 23:51:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"id":8589,"titulo":"asdasd","artista":"asd","tono":""}
+Completed: 201 message:  Time response: 5 ms Request ID: [22001d7a-6af1-41f5-a744-da8bf1798652]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:51:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [67845d08-6a1f-4e5a-ade8-def7cb440669]
+
+Started PUT /canciones/8589 for :: ::1 at Fri Feb 23 2024 23:51:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"id":"8589","titulo":"asdasd asdad","artista":"asd","tono":""}
+Completed: 201 message:  Time response: 9 ms Request ID: [80f13ddd-50b7-46ae-9673-3d0cdcacda91]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:51:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [a3c21ef0-a56f-4754-9354-946b3d0ba084]
+
+Started DELETE /canciones/8589 for :: ::1 at Fri Feb 23 2024 23:51:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 202 message:  Time response: 11 ms Request ID: [61a69efa-096b-40d6-9a6b-1231d973b7db]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:51:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [3f38c958-61e5-45e4-a7f4-8509820ee20c]
+
+Started DELETE /canciones/4845 for :: ::1 at Fri Feb 23 2024 23:51:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 202 message:  Time response: 5 ms Request ID: [7bbec88e-d0a4-4385-8e40-a90bf6b0cd94]
+
+Started GET /canciones for :: ::1 at Fri Feb 23 2024 23:51:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [0745821d-0f45-4bff-9be5-5a50605f234a]
