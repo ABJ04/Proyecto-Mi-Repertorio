@@ -20,4 +20,18 @@ const postCanciones = (req, res) => {
   }
 }
 
-export { getCanciones, postCanciones }
+const deleteCanciones = (req, res) => {
+  try {
+    const {id} = req.params
+    const canciones = JSON.parse(fs.readFileSync('repertorio.json', 'utf8'))
+    const index = canciones.findIndex((c)=> c.id ==id);
+    canciones.splice(index, 1);
+    fs.writeFileSync('repertorio.json', JSON.stringify(canciones))
+    res.status(202).json({ message: 'Canción eliminada satisfactoriamente' })
+  } catch (error) {
+    res.status(500).json({ message: 'Error al intentar eliminar la canción' })
+  }
+}
+
+
+export { getCanciones, postCanciones, deleteCanciones }
