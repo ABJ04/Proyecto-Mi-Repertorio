@@ -1,4 +1,4 @@
 - app.get(canciones) => lee json con canciones **Listo**
 - app.post(canciiones) => publica canciones a json **Listo**
-- app.put('/canciones/:id') => modifica canciones del json (Alfredo)
-- app.delete('/canciones/:id') => elimina canciones de json (Claudio)
+- app.put('/canciones/:id') => modifica canciones del json (Alfredo) **Listo**
+- app.delete('/canciones/:id') => elimina canciones de json (Claudio) **Listo**
