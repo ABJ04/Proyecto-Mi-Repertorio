@@ -5,6 +5,6 @@ const router = Router()
 
 router.get('/canciones', getCanciones)
 router.post('/canciones', postCanciones)
-router.delete('/canciones', deleteCanciones)
+router.delete('/canciones/:id', deleteCanciones)
 
 export default router
